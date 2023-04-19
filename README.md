@@ -1,4 +1,6 @@
 # DỰ ÁN THỰC TẬP Fastfood
+Video demo: [https://youtu.be/oMjQpy_Knds](https://youtu.be/oMjQpy_Knds)
+
 ## POINT TO PROJECT SOURCE
 ```
 cd ..[project location]/Fastfood/source
